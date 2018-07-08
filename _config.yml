@@ -1,0 +1,11 @@
+# Site settings
+title: Learn ReactJS
+tag_text: Learn ReactJS
+description: A list that includes some resources to help you learn the wonderful ReactJS library.
+
+# Build settings
+markdown: kramdown
+baseurl: http://learnreactjs.online
+exclude: ["README.md"]
+sass:
+  style: compressed
