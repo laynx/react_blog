@@ -15,7 +15,7 @@ $ npx create-react-app my-app
 $ cd my-app
 $ npm start
 ~~~
-Basically just configure things like **Webpack** and **Bebbel** for you.
+Basically just configure things like **Webpack** and **Babel** for you.
 
 ### `Prodcut Of The Month : Bootstrap Studio`
 
