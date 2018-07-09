@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-A list that includes some resources to help you learn the wonderful ReactJS library.
+A list that includes some resources and tutorials to help you learn the wonderful ReactJS library.
 
 
 ## Install React, the easy way.
@@ -35,7 +35,6 @@ Ever wondered how easy it will be to build `Responsive` websites using `Bootstra
 * [Build an Airbnb Clone with React and ElasticSearch](https://scotch.io/tutorials/build-an-airbnb-clone-with-react-and-elasticsearch)
 * [How to start learning React / Redux](https://medium.com/netscape/beginners-guide-to-react-redux-how-to-start-learning-and-not-be-overwhelmed-af04353101e) , and not be overwhelmed.
 
-* Edit `CNAME` to host on a custom domain.
 
 ### Redux
 
@@ -47,7 +46,7 @@ Ever wondered how easy it will be to build `Responsive` websites using `Bootstra
 
 ### Sponsorship
 
-Have a product related to `development` or `design` that you want to promote in the Product Of the Month section ? contact me at **yarinahroni@gmail.com**
+Have a product related to `development` or `design` that you want to promote in the Product Of the Month section ? contact me at **jarinaharoni@gmail.com**
 
 
 
